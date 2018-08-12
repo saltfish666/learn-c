@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "compile": "gcc ./hello.c",
+    "exec": "./a.out",
+    "run": "npm run compile && npm run exec"
+  }
+}

@@ -1,0 +1,7 @@
+{
+    "scripts": {
+      "compile": "gcc",
+      "exec": "./a.out",
+      "run": "gcc && npm run exec"
+    }
+}
